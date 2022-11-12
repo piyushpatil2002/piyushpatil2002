@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<a href="www.linkedin.com/in/piyush-patil-686517218
-"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="www.linkedin.com/in/piyush-patil-686517218><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 
