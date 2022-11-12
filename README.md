@@ -34,4 +34,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
+### Github Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=piyushpatil2002
+&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nayan's Github Stats" width="60%">
 
