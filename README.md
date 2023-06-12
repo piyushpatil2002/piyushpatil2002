@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushpatil2002
 - 👀 I’m interested in Web Developmennt, Data Structures and ML.
-- 🌱 I’m currently learning React, Node.js and practicing Data Structures and Alogorithm.
+- 🌱 I’m currently learning React, Node.js and practicing Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on React.js open source projects..
 - 📫 How to reach me piyushpatil2002@gmail.com...
 
